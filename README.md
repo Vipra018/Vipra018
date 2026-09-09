@@ -7,11 +7,11 @@ Computer Science undergrad (CGPA 9.36) at JSSSTU, Mysuru — building fullstack 
 **Web/Backend:** REST APIs, MongoDB, Supabase, DBMS fundamentals
 **Tools:** Git, Postman, Jira
 **Security:** Nmap, basic vulnerability assessment
-**Other:** System Design (basics), DevOps fundamentals
+**Other:** System Design (basics), DevOps fundamentals, LLM, SDLC
 
 ## 🚀 Projects
 
-**[DesiFit](https://github.com/Vipra018/desifit)** — Fitness subscription platform
+**[DesiFit](https://github.com/Vipra018/desifit)** — Retail e-commerce platform (Tote Bags)
 Built the complete backend database architecture and the entire frontend as COO, serving 100 customers with 25-30 active users. *(Code migration in progress — will be public soon.)*
 
 **[Haze-Analyzer](https://github.com/Vipra018/Haze_Analyzer)** — Vision-based AQI predictor
@@ -30,4 +30,3 @@ Built for a software engineering course. Handled frontend and user-facing featur
 
 ## 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/pranav-v-kashyap1827) · kashyappranav018@gmail.com
-
